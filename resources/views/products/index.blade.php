@@ -13,12 +13,12 @@
 <tr>
     <td>Celana Boxer</td>
     <td>Nyaman di pakai</td>
-    <td>Rp. 45.0yy,-</td>
+    <td>Rp. 45.0000000000,-</td>
 </tr>
 <tr>
     <td>Celana xxx</td>
     <td>Nyaman dipakai</td>
-    <td>Rp. 55.000cc,-</td>
+    <td>Rp. 55.00000000,-</td>
 </tr>
 </tbody>
 </table>
